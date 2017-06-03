@@ -5,7 +5,8 @@
 }
 
 body {
-  background: "background.jpg";
+  background: #F5F5F5;
+  background-image: url('background.jpg');
   color: #444;
   font-family: "Helvetica Neue", Arial, serif;
   font-size: 22px;
